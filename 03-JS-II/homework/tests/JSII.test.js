@@ -100,6 +100,7 @@ describe('esPrimo(num)', function() {
     expect(esPrimo(7)).toBe(true);
     expect(esPrimo(97)).toBe(true);
   });
+
   it('should return false if num is not prime', function() {
     expect(esPrimo(10)).toBe(false);
     expect(esPrimo(100)).toBe(false);

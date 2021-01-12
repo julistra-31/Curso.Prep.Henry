@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "test2",
+			"problemMatcher": [
+				"$eslint-compact"
+			],
+			"label": "npm: test2",
+			"detail": "jest JSI.test.js  --useStderr --json --outputFile=./02-JS-I/homework/tests/result.json"
+		}
+	]
+}

@@ -1,4 +1,4 @@
-# Homework: Introducción a Javascript
+﻿# Homework: Introducción a Javascript
 
 ## Instrucciones
 ---
@@ -19,3 +19,15 @@
 
 
 ### Aca tendras acceso a las [Soluciones](https://github.com/atralice/Curso.Prep.Henry/blob/solution/02-JS-I/homework/homework.js)
+
+
+marco 07:53 PM  
+corriste el install npm ?
+Esta pregunta se respondió en vivo
+marco 07:53 PM  
+en la carpeta principal
+Esta pregunta se respondió en vivo
+Eitel belinzoni 07:55 PM  
+fijate de guardar el trabajo en la misma carpeta donde haces el test.
+Esta pregunta se respondió en vivo
+https://developer.mozilla.org/es
